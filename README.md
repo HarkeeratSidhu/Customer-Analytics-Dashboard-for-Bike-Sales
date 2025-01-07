@@ -18,4 +18,4 @@ The Excel file provides a comprehensive framework for analyzing bike buyer behav
    - Filters allow dynamic exploration of data by marital status, age bracket, region, and education level.
 
 ### **Purpose**
-The file serves as an end-to-end solution for analyzing customer behavior, summarizing data trends, and visually presenting insights for decision-making. It is well-suited for identifying target demographics, regional purchasing preferences, and behavioral patterns for strategic planning in bike sales.
+The file serves as an end-to-end solution for analyzing customer behavior, summarizing data trends, and visually presenting insights for decision-making. It is well-suited for identifying target demographics, regional purchasing preferences, and behavioral patterns for strategic planning in bike sales
