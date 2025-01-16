@@ -1,4 +1,4 @@
-### **Bike Dashboard Excel Summary
+### **Bike Dashboard Excel Summary**
 
 The Excel file provides a comprehensive framework for analyzing bike buyer behavior. It combines raw data, data preparation, and visual dashboards to extract and present actionable insights. Here's what the file accomplishes:
 
